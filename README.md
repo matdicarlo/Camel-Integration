@@ -1,4 +1,1 @@
-# integration-templates
-2024
-
-Camel Springboot microservices
+# Camel SpringBoot integration-templates
